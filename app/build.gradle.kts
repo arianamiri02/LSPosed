@@ -220,7 +220,7 @@ dependencies {
     implementation("dev.rikka.rikkax.widget:borderview:1.1.0")
     implementation("dev.rikka.rikkax.widget:switchbar:1.0.2")
     implementation("dev.rikka.rikkax.layoutinflater:layoutinflater:1.2.0")
-    implementation("me.zhanghai.android.appiconloader:appiconloader:1.3.1")
+    implementation("me.zhanghai.android.appiconloader:appiconloader:1.5.0")
     implementation("org.lsposed.hiddenapibypass:hiddenapibypass:4.3")
     implementation(project(":manager-service"))
 
