@@ -28,7 +28,7 @@ buildscript {
     val agpVersion by extra("7.1.1")
     dependencies {
         classpath("com.android.tools.build:gradle:$agpVersion")
-        classpath("org.eclipse.jgit:org.eclipse.jgit:6.0.0.202111291000-r")
+        classpath("org.eclipse.jgit:org.eclipse.jgit:6.4.0.202211300538-r")
         classpath("androidx.navigation:navigation-safe-args-gradle-plugin:$navVersion")
     }
 }
